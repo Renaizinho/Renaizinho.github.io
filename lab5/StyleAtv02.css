@@ -1,0 +1,27 @@
+body{
+    background-color: #DDDDDD;
+}
+
+header{
+    display: flex;
+}
+
+header img{
+    padding-left: 80px;
+    width: 162px;
+    height: auto;
+}
+
+table th{
+    background-color:#FFFFCC;
+    padding: 10px;
+    
+}
+ table td{
+     background-color: #FFFFCC;
+     padding: 10px;
+ }
+
+ p {
+     color:#DD0000;
+ }

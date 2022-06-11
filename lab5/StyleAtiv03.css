@@ -1,0 +1,56 @@
+.cabeca{
+    margin-bottom: 210px;
+    display: flex;
+    justify-content: space-between;
+}
+.Cefet{
+    display: inline;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+nav {
+    margin-top: 40px;
+    margin-right: 50px;
+    height: 20px;
+    border: 1px solid black;
+    display: inline;
+}
+
+.lista{
+    margin-right: 50px;
+    text-align: right;
+    display: inline;
+    flex-direction: row;
+}
+
+.SignUp{
+    color: white;
+    border: 1px solid grey;
+    border-radius: 12px;
+    background-color:grey;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+li {
+    margin-left: 10px;
+    display: inline;
+}
+
+.banner{
+    width: 700px;
+    margin: auto;
+    border: 2px solid rgba(0, 0, 0, 0.315);
+    text-align: center;
+    margin-top: 210px;
+}
+
+.Loren{
+    color: white;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: grey;
+}
